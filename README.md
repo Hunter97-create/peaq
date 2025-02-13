@@ -1,2 +1,4 @@
 # peaq
-Target
+
+## Galxe
+- Complete galxe tasks
